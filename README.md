@@ -7,7 +7,7 @@
 
 <img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/bed52a89-79b3-476c-8f39-c36bed9d5a4e" />
 
-<sub> temporary theme </sub>
+<sub> * </sub>
 
 [ata](https://puppiess.atabook.org) 
 
